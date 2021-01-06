@@ -1,0 +1,20 @@
+.footer-area.v2 {
+    margin-top: 0px !important;
+}
+.text-box h2.title {
+    margin-bottom: 0px !important;
+}
+.text-box {
+    margin-top: 9px !important;
+    color: rgba(15, 29, 70, .6);
+}
+.subscribe-area{
+    direction: rtl;
+}
+.siyasa{
+    color: #2e86de !important;
+}
+.bttn-5 {
+    background-color: #1980fa;
+    margin-top: 18px !important;
+}
